@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/png" href="/lollipop.png">
+<link rel="shortcut icon" type="image/png" href="/lollipop-removebg-preview.png">
 
 # 🍭lollipop
 
