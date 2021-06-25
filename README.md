@@ -16,4 +16,4 @@
   - with a goal of viablity, simplicity and better developer experience
   - it is more about the community and concepts(that will be the main and constant driver) than the code
 
-📢  follow on <a href="https://twitter.com/k0sengan/status/1408307141836898310">twitter</a> or <a href="https://github.com/bldrbar/lollipop">github</a> for updates
+👆 on <a href="https://twitter.com/k0sengan/status/1408307141836898310">twitter</a> / ⭐ on <a href="https://github.com/bldrbar/lollipop">github</a> for updates
