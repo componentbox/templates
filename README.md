@@ -15,3 +15,5 @@
   - experiment, iterate and reason with first principles regarding the languages/tools/platforms of choice, design and architecture
   - with a goal of viablity, simplicity and better developer experience
   - it is more about the community and concepts(that will be the main and constant driver) than the code
+
+📢 for the time being, I will be <a href="https://twitter.com/k0sengan/status/1408307141836898310">updating the twitter thread</a> regarding any progress
